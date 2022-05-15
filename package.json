@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Juliiis/inquirer-prompt-practice/issues"
   },
-  "homepage": "https://github.com/Juliiis/inquirer-prompt-practice#readme"
+  "homepage": "https://github.com/Juliiis/inquirer-prompt-practice#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
